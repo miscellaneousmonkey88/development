@@ -91,7 +91,7 @@ function App() {
 
   return (
     <div className="App">
-      <div id="title">React Roots Plant Nursery 🪴</div>
+      <div id="title">REACT ROOTS PLANT NURSERY 🪴</div>
       <div id="sort">
         <div id="txt4">Reset: <input type="submit" value="reset all filters" onClick={() => resetD(plantD)} /></div>
         <div id="txt4">
