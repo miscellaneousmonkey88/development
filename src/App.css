@@ -2,12 +2,12 @@
 .App {
   justify-content: left;
   font-size: large;
-  margin: 70px;
+  margin: 42px;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .flexouter {
-  margin-top: 20px;
+  margin-top: 16px;
   display: flex;
   flex-direction: row;
   justify-content: left;
@@ -64,9 +64,8 @@ img {
   margin-top: 5vw;
   margin-left: 3.5vw;
   font-size: 50px;
-  font-weight: bold;
   color: rgb(0, 37, 0);
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 #txt {
