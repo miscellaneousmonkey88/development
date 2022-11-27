@@ -1,7 +1,10 @@
 #buttons {
-    margin-top: 20px;
+    margin-top: 13px;
 }
 #ss {
     margin-top: 3px;
-    font-size: 13px;
+    font-size: 14px;
+}
+#name {
+    font-size: 20px;
 }
